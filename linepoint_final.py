@@ -1,7 +1,7 @@
 from manim import *
 ######### References start ###############
 #source: https://github.com/TheMathematicFanatic/MF_Tools
-#owner: TheMathematicFanatic,2025
+#owner: John Connell,2025
 class TransformByGlyphMap(AnimationGroup):
     def __init__(
         self,
